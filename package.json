@@ -1,0 +1,43 @@
+{
+  "name": "timediff-word",
+  "version": "1.0.0",
+  "description": "timediff-word calculates the time difference between two timestamps and returns a human-readable string representation of the difference in years, days, hours, minutes, and seconds. It's suitable for use in applications that require displaying elapsed time, such as timers or date calculators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer-pritam/timediff-word.git"
+  },
+  "keywords": [
+    "time",
+    "difference",
+    "timestamp",
+    "date",
+    "calculation",
+    "elapsed",
+    "time",
+    "duration",
+    "countdown",
+    "timer",
+    "JavaScript",
+    "utility",
+    "human-readable",
+    "output",
+    "time",
+    "format",
+    "date",
+    "format",
+    "time",
+    "conversion",
+    "date",
+    "conversion"
+  ],
+  "author": "Pritam Kumar (developerpritam)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developer-pritam/timediff-word/issues"
+  },
+  "homepage": "https://github.com/developer-pritam/timediff-word#readme"
+}
